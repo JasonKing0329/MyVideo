@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.king.app.video"
+    android:versionCode="1"
+    android:versionName="4.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="23.0.3" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.MOUNT_FORMAT_FILESYSTEMS" />
+    <!-- 读取外置SD卡的权限。这个权限每次改manifest的时候，eclipse总是报错："permission is only granted for system app"，执行project>clean就行了 -->
+    <uses-permission android:name="android.permission.WRITE_MEDIA_STORAGE" />
+    <uses-permission android:name="mobile.androidpermission.regioncontentprovider.READ_REGION" />
+
+    <uses-permission android:name="com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/video_app_icon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        
+	    <meta-data android:name="com.samsung.android.sdk.multiwindow.enable" android:value="true"/>
+	    <meta-data android:name="com.samsung.android.sdk.multiwindow.multiinstance.enable" android:value="true"/>
+	    <meta-data android:name="com.sec.android.multiwindow.STYLE" android:value="fixedRatio"/>
+	    <meta-data android:name="com.sec.android.support.multiwindow" android:value="true"/>
+        
+        <activity
+            android:name="com.king.app.video.VideoListActivity"
+            android:configChanges="orientation|screenSize"
+            android:theme="@style/VideoPlayer" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+				<category android:name="android.intent.category.MULTIWINDOW_LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.king.app.video.VideoActivity"
+            android:configChanges="orientation|screenSize"
+            android:theme="@style/VideoPlayer" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <data
+                    android:mimeType="video/*"
+                    android:scheme="http" />
+                <data
+                    android:mimeType="video/*"
+                    android:scheme="file" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.king.app.video.setting.SettingActivity"
+            android:configChanges="orientation|screenSize"
+            android:theme="@style/VideoPlayer" />
+    </application>
+
+</manifest>

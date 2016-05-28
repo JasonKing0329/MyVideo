@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <dimen name="video_crop_boarder_size">3dp</dimen>
+    <dimen name="video_crop_boarder_point_size">10dp</dimen>
+    <dimen name="video_crop_side_area">25dp</dimen>
+    
+    <dimen name="video_crop_dlg_icon_width">70dp</dimen>
+    <dimen name="show_image_dlg_space_y">40dp</dimen>
+    <dimen name="show_image_dlg_space_x">20dp</dimen>
+</resources>

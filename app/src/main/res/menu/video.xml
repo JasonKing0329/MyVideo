@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/video_menu_select"
+		android:title="@string/video_menu_select"/>
+    
+    <item
+        android:id="@+id/video_menu_order_manage"
+		android:title="@string/video_menu_order_manage"/>
+    
+    <item
+        android:id="@+id/video_menu_export"
+		android:title="@string/video_menu_export"/>
+    
+    <item
+        android:id="@+id/video_menu_setting"
+		android:title="@string/video_menu_setting"/>
+
+</menu>

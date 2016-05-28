@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyVideo</string>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+
+    <string name="video_forward_option">快进%s秒</string>
+    <string name="video_backward_option">快退%s秒</string>
+    <string name="video_no_backward">已无法再快退！</string>
+    <string name="video_no_forward">已无法再快进！</string>
+    <string name="video_action_more">更多</string>
+    <string name="video_action_grid">网格</string>
+    <string name="video_action_list">列表</string>
+    <string name="video_action_sort">排序</string>
+    <string name="video_action_search">搜索</string>
+    <string name="video_action_refresh">刷新</string>
+    <string name="video_action_back">返回</string>
+    <string name="video_action_play">播放</string>
+    <string name="video_action_addto">添加至</string>
+    <string name="video_action_delete">删除</string>
+    <string name="video_action_rename">重命名</string>
+    <string name="video_action_close">关闭</string>
+    <string name="video_action_save">保存</string>
+    <string name="video_action_add">新建</string>
+    <string name="video_action_showtime">显示时间</string>
+    <string name="video_action_selectall">全选</string>
+    <string name="video_action_unselectall">取消全选</string>
+    
+    <string name="video_menu_sort_name">按名称</string>
+    <string name="video_menu_sort_duration">按时长</string>
+    <string name="video_menu_sort_date_added">按添加日期</string>
+    <string name="video_menu_sort_size">按文件大小</string>
+    <string name="video_menu_sort_type">按类型</string>
+    <string name="video_menu_sort_score">按星级</string>
+    <string name="video_menu_sort_no">无序</string>
+    <string name="video_menu_setting">设置</string>
+    <string name="video_menu_export">导出</string>
+    <string name="video_menu_select">选择</string>
+    <string name="video_menu_order_manage">管理列表</string>
+    
+    <string name="video_setting_init">初始化</string>
+    <string name="video_setting_display_mode">显示模式</string>
+    <string name="video_setting_default_sort">默认排序方式</string>
+    <string name="video_setting_safe">安全性</string>
+    
+    <string name="video_detail_thumb_save">保存图片</string>
+    <string name="video_detail_thumb_save_success">保存图片成功！</string>
+    <string name="video_dlg_warning">警告</string>
+    <string name="video_dlg_delete_warning">删除操作将无法撤销，确定继续？</string>
+    <string name="video_dlg_not_support_play">抱歉，视频无法播放！</string>
+    
+    <string name="video_popup_forward_unit">快进单位</string>
+    <string name="video_popup_forward_unit_sec">%d秒</string>
+    <string name="video_popup_screenshot">视频截图</string>
+    <string name="video_popup_sound_mute">静音</string>
+    <string name="video_popup_sound_value">音量： %d</string>
+    <string name="video_popup_screen_size">视频尺寸</string>
+    <string name="video_popup_screen_size_matchscreen">适应屏幕</string>
+    <string name="video_popup_screen_size_origin">原始大小</string>
+    
+    <string name="video_select_path">选择路径</string>
+    <string name="video_folderselect_new">新建文件夹</string>
+    <string name="video_folderselect_folder_exist">目标目录已存在</string>
+    <string name="video_save_success">保存成功！</string>
+    
+    <string name="video_saveas_filename">文件名</string>
+    <string name="video_saveas_title_notnull">标题不能为空！</string>
+    <string name="video_saveas_title">保存图片</string>
+    
+    <string name="video_warning_addorder_repeat">添加列表失败，原因：目标列表已存在！</string>
+    <string name="video_warning_addtoorder_repeat">添加失败，原因：目标列表已包含该视频。</string>
+</resources>

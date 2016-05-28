@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/video_menu_sort_name"
+        android:title="@string/video_menu_sort_name"/>
+    <item android:id="@+id/video_menu_sort_date_added"
+        android:title="@string/video_menu_sort_date_added"/>
+    <item android:id="@+id/video_menu_sort_type"
+        android:title="@string/video_menu_sort_type"/>
+    <item android:id="@+id/video_menu_sort_duration"
+        android:title="@string/video_menu_sort_duration"/>
+    <item android:id="@+id/video_menu_sort_size"
+        android:title="@string/video_menu_sort_size"/>
+    <item android:id="@+id/video_menu_sort_score"
+        android:title="@string/video_menu_sort_score"/>
+</menu>

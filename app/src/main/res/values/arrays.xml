@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="video_setting_display_mode">
+        <item>@string/video_action_list</item>
+        <item>@string/video_action_grid</item>
+    </string-array>
+    <string-array name="video_setting_sort_type">
+        <item>@string/video_menu_sort_no</item>
+        <item>@string/video_menu_sort_name</item>
+        <item>@string/video_menu_sort_date_added</item>
+        <item>@string/video_menu_sort_type</item>
+        <item>@string/video_menu_sort_duration</item>
+        <item>@string/video_menu_sort_size</item>
+        <item>@string/video_menu_sort_score</item>
+    </string-array>
+    <string-array name="crop_area_size" translatable="false">
+	    <item>200*200</item>
+	    <item>240*320</item>
+	    <item>320*480</item>
+	    <item>400*400</item>
+	    <item>480*800</item>
+	    <item>540*960</item>
+	    <item>600*600</item>
+	    <item>800*800</item>
+	    <item>800*1280</item>
+	    <item>1080*1920</item>
+	    <item>1440*2560</item>
+    </string-array>
+</resources>

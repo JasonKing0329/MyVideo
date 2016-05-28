@@ -1,0 +1,53 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <style name="VideoPlayer" parent="@android:style/Theme.DeviceDefault.Light.NoActionBar">
+
+    </style>
+    <style name="VedioDialog" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
+        <item name="android:windowFrame">@null</item><!--边框-->
+        <item name="android:windowIsFloating">true</item><!--是否浮现在activity之上-->
+        <item name="android:windowIsTranslucent">false</item><!--半透明-->
+        <item name="android:windowNoTitle">true</item><!--无标题-->
+        <item name="android:windowBackground">@color/video_dialog_bk_grey</item><!--背景透明-->
+        <item name="android:backgroundDimEnabled">false</item><!--模糊-->
+    </style>
+    <style name="ActionbarText">
+        <item name="android:layout_marginRight">@dimen/video_actionbar_right_margin</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">@dimen/video_actionbar_text_padding</item>
+        <item name="android:paddingRight">@dimen/video_actionbar_text_padding</item>
+        <item name="android:textColor">@color/video_actionbar_text_color</item>
+        <item name="android:textSize">@dimen/video_actionbar_text_size</item>
+    </style>
+    <style name="TransparentDialog" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
+ <!-- 设置自定义布局的背景透明 -->
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:windowNoTitle">true</item><!--无标题-->
+ <!-- 设置window背景透明，也就是去边框 -->
+    </style>
+    <style name="ScrollTabNormal">
+        <item name="android:textColor">@color/video_actionbar_text_color</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="ScrollTabFocus">
+        <item name="android:textColor">@color/video_scrolltab_text_selected</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

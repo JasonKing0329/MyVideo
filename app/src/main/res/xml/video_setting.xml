@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory
+        android:key="video_setting_init"
+        android:title="@string/video_setting_init" >
+    </PreferenceCategory>
+    <ListPreference
+        android:defaultValue="@string/video_action_list"
+        android:dialogTitle="@string/video_setting_display_mode"
+        android:entries="@array/video_setting_display_mode"
+        android:entryValues="@array/video_setting_display_mode"
+        android:key="video_setting_display_mode"
+        android:title="@string/video_setting_display_mode" />
+    <ListPreference
+        android:defaultValue="@string/video_menu_sort_no"
+        android:dialogTitle="@string/video_setting_default_sort"
+        android:entries="@array/video_setting_sort_type"
+        android:entryValues="@array/video_setting_sort_type"
+        android:key="video_setting_default_sort"
+        android:title="@string/video_setting_default_sort" />
+    <PreferenceCategory
+        android:key="video_setting_safe"
+        android:title="@string/video_setting_safe" >
+    </PreferenceCategory>
+</PreferenceScreen>

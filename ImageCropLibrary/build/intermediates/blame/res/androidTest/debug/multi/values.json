@@ -1,0 +1,357 @@
+[
+    {
+        "outputFile": "E:\\king\\Devolopment\\as_projects\\MyVideo\\ImageCropLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 14,
+                    "endColumn": 19,
+                    "endOffset": 423
+                },
+                "from": {
+                    "file": "E:\\king\\Devolopment\\as_projects\\MyVideo\\ImageCropLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 14,
+                        "endColumn": 19,
+                        "endOffset": 423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 428,
+                    "endColumn": 43,
+                    "endOffset": 467
+                },
+                "from": {
+                    "file": "E:\\king\\Devolopment\\as_projects\\MyVideo\\ImageCropLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 428,
+                        "endColumn": 43,
+                        "endOffset": 467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 472,
+                    "endColumn": 40,
+                    "endOffset": 508
+                },
+                "from": {
+                    "file": "E:\\king\\Devolopment\\as_projects\\MyVideo\\ImageCropLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 472,
+                        "endColumn": 40,
+                        "endOffset": 508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 513,
+                    "endColumn": 37,
+                    "endOffset": 546
+                },
+                "from": {
+                    "file": "E:\\king\\Devolopment\\as_projects\\MyVideo\\ImageCropLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 513,
+                        "endColumn": 37,
+                        "endOffset": 546
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 551,
+                    "endColumn": 56,
+                    "endOffset": 603
+                },
+                "from": {
+                    "file": "E:\\king\\Devolopment\\as_projects\\MyVideo\\ImageCropLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 551,
+                        "endColumn": 56,
+                        "endOffset": 603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 608,
+                    "endColumn": 64,
+                    "endOffset": 668
+                },
+                "from": {
+                    "file": "E:\\king\\Devolopment\\as_projects\\MyVideo\\ImageCropLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 608,
+                        "endColumn": 64,
+                        "endOffset": 668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 673,
+                    "endColumn": 51,
+                    "endOffset": 720
+                },
+                "from": {
+                    "file": "E:\\king\\Devolopment\\as_projects\\MyVideo\\ImageCropLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 673,
+                        "endColumn": 51,
+                        "endOffset": 720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 725,
+                    "endColumn": 39,
+                    "endOffset": 760
+                },
+                "from": {
+                    "file": "E:\\king\\Devolopment\\as_projects\\MyVideo\\ImageCropLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 725,
+                        "endColumn": 39,
+                        "endOffset": 760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 765,
+                    "endColumn": 53,
+                    "endOffset": 814
+                },
+                "from": {
+                    "file": "E:\\king\\Devolopment\\as_projects\\MyVideo\\ImageCropLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 765,
+                        "endColumn": 53,
+                        "endOffset": 814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 819,
+                    "endColumn": 53,
+                    "endOffset": 868
+                },
+                "from": {
+                    "file": "E:\\king\\Devolopment\\as_projects\\MyVideo\\ImageCropLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 819,
+                        "endColumn": 53,
+                        "endOffset": 868
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 873,
+                    "endColumn": 59,
+                    "endOffset": 928
+                },
+                "from": {
+                    "file": "E:\\king\\Devolopment\\as_projects\\MyVideo\\ImageCropLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 873,
+                        "endColumn": 59,
+                        "endOffset": 928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 933,
+                    "endColumn": 53,
+                    "endOffset": 982
+                },
+                "from": {
+                    "file": "E:\\king\\Devolopment\\as_projects\\MyVideo\\ImageCropLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 933,
+                        "endColumn": 53,
+                        "endOffset": 982
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 987,
+                    "endColumn": 56,
+                    "endOffset": 1039
+                },
+                "from": {
+                    "file": "E:\\king\\Devolopment\\as_projects\\MyVideo\\ImageCropLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 987,
+                        "endColumn": 56,
+                        "endOffset": 1039
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1044,
+                    "endColumn": 51,
+                    "endOffset": 1091
+                },
+                "from": {
+                    "file": "E:\\king\\Devolopment\\as_projects\\MyVideo\\ImageCropLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1044,
+                        "endColumn": 51,
+                        "endOffset": 1091
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1096,
+                    "endColumn": 56,
+                    "endOffset": 1148
+                },
+                "from": {
+                    "file": "E:\\king\\Devolopment\\as_projects\\MyVideo\\ImageCropLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1096,
+                        "endColumn": 56,
+                        "endOffset": 1148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1153,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 1439
+                },
+                "from": {
+                    "file": "E:\\king\\Devolopment\\as_projects\\MyVideo\\ImageCropLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1153,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 1439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1444,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 1599
+                },
+                "from": {
+                    "file": "E:\\king\\Devolopment\\as_projects\\MyVideo\\ImageCropLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1444,
+                        "endLine": 38,
+                        "endColumn": 12,
+                        "endOffset": 1599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1604,
+                    "endLine": 44,
+                    "endColumn": 12,
+                    "endOffset": 1902
+                },
+                "from": {
+                    "file": "E:\\king\\Devolopment\\as_projects\\MyVideo\\ImageCropLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1604,
+                        "endLine": 44,
+                        "endColumn": 12,
+                        "endOffset": 1902
+                    }
+                }
+            }
+        ]
+    }
+]

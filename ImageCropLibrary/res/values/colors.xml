@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ripple_material_dark">#40000000</color>
+    <color name="video_crop_position_frame_bk">#66000000</color>
+	<color name="white">#FFFFFF</color>
+	<color name="red">#FF0000</color>
+	<color name="orange">#FFA500</color>
+	<color name="video_crop_stroke">#FFA500</color>
+	<color name="lightblue">#ADD8E6</color>
+</resources>

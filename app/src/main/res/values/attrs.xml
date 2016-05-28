@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <attr name="starNumber" format="integer" />
+    <attr name="starMaxScore" format="integer" />
+    <attr name="starSize" format="dimension" />
+    <attr name="starLeftMargin" format="dimension" />
+    <attr name="starOnDrawable" format="reference" />
+    <attr name="starOffDrawable" format="reference" />
+
+    <declare-styleable name="StarScoreViewParams">
+        <attr name="starNumber" />
+        <attr name="starMaxScore" />
+        <attr name="starSize" />
+        <attr name="starLeftMargin" />
+        <attr name="starOnDrawable" />
+        <attr name="starOffDrawable" />
+    </declare-styleable>
+    
+</resources>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyVideo</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+
+    <string name="video_forward_option">Forward %s seconds</string>
+    <string name="video_backward_option">Backward %s seconds</string>
+    <string name="video_no_backward">Can\'t backward anymore!</string>
+    <string name="video_no_forward">Can\'t forward anymore!</string>
+    <string name="video_action_more">More</string>
+    <string name="video_action_grid">Grid</string>
+    <string name="video_action_list">List</string>
+    <string name="video_action_sort">Sort</string>
+    <string name="video_action_search">Search</string>
+    <string name="video_action_refresh">Refresh</string>
+    <string name="video_action_back">Back</string>
+    <string name="video_action_play">Play</string>
+    <string name="video_action_addto">Add to</string>
+    <string name="video_action_delete">Delete</string>
+    <string name="video_action_rename">Rename</string>
+    <string name="video_action_close">Close</string>
+    <string name="video_action_save">Save</string>
+    <string name="video_action_add">Add</string>
+    <string name="video_action_showtime">Show time</string>
+    <string name="video_action_selectall">Select all</string>
+    <string name="video_action_unselectall">Unselect all</string>
+    
+    <string name="video_menu_sort_name">By name</string>
+    <string name="video_menu_sort_duration">By duration</string>
+    <string name="video_menu_sort_date_added">By added time</string>
+    <string name="video_menu_sort_size">By size</string>
+    <string name="video_menu_sort_type">By type</string>
+    <string name="video_menu_sort_score">By star</string>
+    <string name="video_menu_sort_no">No order</string>
+    <string name="video_menu_setting">Setting</string>
+    <string name="video_menu_export">Export</string>
+    <string name="video_menu_select">Select</string>
+    <string name="video_menu_order_manage">Manage order</string>
+    
+    <string name="video_setting_init">Initialize</string>
+    <string name="video_setting_display_mode">Display mode</string>
+    <string name="video_setting_default_sort">Default sort type</string>
+    <string name="video_setting_safe">Safe</string>
+    
+    <string name="video_detail_thumb_save">Save image</string>
+    <string name="video_detail_thumb_save_success">Save image successfully!</string>
+    <string name="video_dlg_warning">Warning</string>
+    <string name="video_dlg_delete_warning">Delete couldn\'t be undo, are you sure to continue?</string>
+    <string name="video_dlg_not_support_play">Sorry for that couldn\'t play this video!</string>
+    
+    <string name="video_popup_forward_unit">Forward unit</string>
+    <string name="video_popup_forward_unit_sec">%d sec</string>
+    <string name="video_popup_screenshot">Video screenshot</string>
+    <string name="video_popup_sound_mute">Mute</string>
+    <string name="video_popup_sound_value">Volumn: %d</string>
+    <string name="video_popup_screen_size">Screen size</string>
+    <string name="video_popup_screen_size_matchscreen">Match</string>
+    <string name="video_popup_screen_size_origin">Origin</string>
+    <string name="video_popup_screen_size_1_5" translatable="false">X 1.5</string>
+    <string name="video_popup_screen_size_2" translatable="false">X 2</string>
+    <string name="video_popup_screen_size_3" translatable="false">X 3</string>
+    
+    <string name="video_select_path">Select path</string>
+    <string name="video_folderselect_new">Create new folder</string>
+    <string name="video_folderselect_folder_exist">Target folder already exist!</string>
+    <string name="video_save_success">Save successfully!</string>
+    
+    <string name="video_saveas_filename">File name</string>
+    <string name="video_saveas_title_notnull">Title can\'t be null!</string>
+    <string name="video_saveas_title">Save image</string>
+    
+    <string name="video_warning_addorder_repeat">Fail to add order, cause: Target order already existed!</string>
+    <string name="video_warning_addtoorder_repeat">Fail to add video to order, cause: Target order already contains this video.</string>
+</resources>

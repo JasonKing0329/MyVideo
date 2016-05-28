@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="crop_area_size" translatable="false">
+	    <item>200*200</item>
+	    <item>240*320</item>
+	    <item>320*480</item>
+	    <item>400*400</item>
+	    <item>480*800</item>
+	    <item>540*960</item>
+	    <item>600*600</item>
+	    <item>800*800</item>
+	    <item>800*1280</item>
+	    <item>1080*1920</item>
+	    <item>1440*2560</item>
+    </string-array>
+    <color name="lightblue">#ADD8E6</color>
+    <color name="orange">#FFA500</color>
+    <color name="red">#FF0000</color>
+    <color name="ripple_material_dark">#40000000</color>
+    <color name="video_crop_position_frame_bk">#66000000</color>
+    <color name="video_crop_stroke">#FFA500</color>
+    <color name="white">#FFFFFF</color>
+    <dimen name="show_image_dlg_space_x">20dp</dimen>
+    <dimen name="show_image_dlg_space_y">40dp</dimen>
+    <dimen name="video_crop_boarder_point_size">7dp</dimen>
+    <dimen name="video_crop_boarder_size">2dp</dimen>
+    <dimen name="video_crop_dlg_icon_width">40dp</dimen>
+    <dimen name="video_crop_side_area">20dp</dimen>
+    <dimen name="video_cropinfor_text_size">14sp</dimen>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="TransparentDialog" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
+	 <!-- 设置自定义布局的背景透明 -->
+	        <item name="android:windowBackground">@android:color/black</item>
+	        <item name="android:windowNoTitle">true</item><!--无标题-->
+	 <!-- 设置window背景透明，也就是去边框 -->
+    </style>
+</resources>
